@@ -6,5 +6,13 @@
     "artist": "Sphesihle Hlatshwayo",
     "country": "South Africa 🇿🇦",
     "desc": "Sphesihle Hlatshwayo is a talented young South African pyrography artist known for creating detailed wood-burned portraits. He gained attention for his striking artwork of streamer IShowSpeed, which he personally gifted during Speed's visit to Johannesburg."
+  },
+  {
+    "id": 2,
+    "filename": "artworks/2.png",
+    "title": "LENTICULAR PORTRAIT (Speed & Ronaldo)",
+    "artist": "Unknown Zimbabwean Artist",
+    "country": "Zimbabwe 🇿🇼",
+    "desc": "During IShowSpeed's visit to Zimbabwe as part of his Africa tour, a talented local fan artist gifted him this incredible one-of-a-kind lenticular artwork. Depending on the viewing angle, the image magically switches between a portrait of Speed and his idol Cristiano Ronaldo. Speed was left completely speechless and in disbelief, calling it one of the craziest and most creative fan gifts he's received on the entire tour—highlighting Zimbabwe's amazing artistic talent!"
   }
 ]
