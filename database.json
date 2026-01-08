@@ -1,1 +1,50 @@
-
+[
+  {
+    "id": 1,
+    "filename": "artworks/1.jpg",
+    "title": "ARTWORK 01",
+    "artist": "Artist Name",
+    "country": "Country",
+    "desc": "Description coming soon."
+  },
+  {
+    "id": 2,
+    "filename": "artworks/2.jpg",
+    "title": "ARTWORK 02",
+    "artist": "Artist Name",
+    "country": "Country",
+    "desc": "Description coming soon."
+  },
+  {
+    "id": 3,
+    "filename": "artworks/3.jpg",
+    "title": "ARTWORK 03",
+    "artist": "Artist Name",
+    "country": "Country",
+    "desc": "Description coming soon."
+  },
+  {
+    "id": 4,
+    "filename": "artworks/4.jpg",
+    "title": "ARTWORK 04",
+    "artist": "Artist Name",
+    "country": "Country",
+    "desc": "Description coming soon."
+  },
+  {
+    "id": 5,
+    "filename": "artworks/5.jpg",
+    "title": "ARTWORK 05",
+    "artist": "Artist Name",
+    "country": "Country",
+    "desc": "Description coming soon."
+  },
+  {
+    "id": 6,
+    "filename": "artworks/6.jpg",
+    "title": "ARTWORK 06",
+    "artist": "Artist Name",
+    "country": "Country",
+    "desc": "Description coming soon."
+  }
+]
